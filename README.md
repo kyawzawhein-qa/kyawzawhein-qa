@@ -6,7 +6,7 @@
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
-║  ◉ SIGNAL LAB  ·  kyawzawhein-qa  ·  Myanmar  ·  building in public  ║
+║  ◉ ATRIUM LAB  ·  kyawzawhein-qa  ·  Myanmar  ·  building in public  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 </pre>
 
@@ -25,7 +25,7 @@
 ## 📡 Operator Profile
 
 <pre>
-┌─ kyawzawhein-qa@signal-lab ──────────────────────────────────────────┐
+┌─ kyawzawhein-qa@atrium-lab ──────────────────────────────────────────┐
 │ $ cat operator.json                                                   │
 └───────────────────────────────────────────────────────────────────────┘
 </pre>
@@ -157,7 +157,7 @@ Case studies, demos, and contact — **[kyawzawhein.com](https://kyawzawhein.com
 
 <div align="center">
 
-**Thanks for stopping by the signal lab.**
+**Thanks for stopping by Atrium Lab.**
 
 <sub>Profile README for <a href="https://github.com/kyawzawhein-qa">kyawzawhein-qa</a> · Last updated: 2026</sub>
 
