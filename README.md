@@ -75,6 +75,10 @@ Scroll-scrub story for HVAC booking — live at **[hvac.kyawzawhein.com](https:/
 
 Case studies, demos, and contact — **[kyawzawhein.com](https://kyawzawhein.com)**.
 
+<br/>
+
+<sub>If a repo here helps you — especially <strong><a href="https://github.com/kyawzawhein-qa/atrium">Atrium</a></strong> or <strong><a href="https://github.com/kyawzawhein-qa/gulf_brezze_hvac">Gulf Breeze HVAC</a></strong> — a star is appreciated. It helps others find the work.</sub>
+
 </div>
 
 ---
@@ -150,6 +154,23 @@ Case studies, demos, and contact — **[kyawzawhein.com](https://kyawzawhein.com
 │
 └──────────────────────────────────────────────────────────────────────
 </pre>
+
+</div>
+
+---
+
+## 💙 Support / Thanks
+
+<div align="center">
+
+<pre>
+┌─ sponsor channel ─────────────────────────────────────────────────────┐
+│  Open-source work takes time. Support helps keep Atrium Lab running. │
+└──────────────────────────────────────────────────────────────────────┘
+</pre>
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-kyawzawhein--qa-22D3EE?style=for-the-badge&logo=githubsponsors&logoColor=0B0F14)](https://github.com/sponsors/kyawzawhein-qa)
+[![Support Kyaw Zaw Hein](https://img.shields.io/badge/Support_Kyaw_Zaw_Hein-Ko--fi-38BDF8?style=for-the-badge&logo=ko-fi&logoColor=0B0F14)](https://ko-fi.com/kyawzawhein64244)
 
 </div>
 
