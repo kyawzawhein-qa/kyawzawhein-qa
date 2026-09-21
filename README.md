@@ -55,25 +55,38 @@
 
 ### Atrium — self-hosted multi-agent studio
 
-[![atrium](https://github-readme-stats.vercel.app/api/pin/?username=kyawzawhein-qa&repo=atrium&theme=react&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1)](https://github.com/kyawzawhein-qa/atrium)
+<pre>
+┌─ PIN · atrium ────────────────────────────────────────────────────────┐
+│ OpenRouter key, per-agent models, folder allowlist, approve-gated     │
+│ shell — does not run until you approve it.                              │
+└───────────────────────────────────────────────────────────────────────┘
+</pre>
 
-OpenRouter key, per-agent models, folder allowlist, and shell that **does not run until you approve it**.
+**[github.com/kyawzawhein-qa/atrium](https://github.com/kyawzawhein-qa/atrium)**
 
 <br/>
 
 ### Gulf Breeze HVAC — cinematic booking demo
 
-[![gulf_brezze_hvac](https://github-readme-stats.vercel.app/api/pin/?username=kyawzawhein-qa&repo=gulf_brezze_hvac&theme=react&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1)](https://github.com/kyawzawhein-qa/gulf_brezze_hvac)
+<pre>
+┌─ PIN · gulf_brezze_hvac ──────────────────────────────────────────────┐
+│ Scroll-scrub story for HVAC booking — live at hvac.kyawzawhein.com.   │
+└───────────────────────────────────────────────────────────────────────┘
+</pre>
 
-Scroll-scrub story for HVAC booking — live at **[hvac.kyawzawhein.com](https://hvac.kyawzawhein.com)**.
+**[github.com/kyawzawhein-qa/gulf_brezze_hvac](https://github.com/kyawzawhein-qa/gulf_brezze_hvac)** · live at **[hvac.kyawzawhein.com](https://hvac.kyawzawhein.com)**
 
 <br/>
 
 ### Portfolio — personal site
 
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=kyawzawhein-qa&repo=portfolio&theme=react&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1)](https://github.com/kyawzawhein-qa/portfolio)
+<pre>
+┌─ PIN · portfolio ───────────────────────────────────────────────────────┐
+│ Case studies, demos, and contact — kyawzawhein.com.                   │
+└───────────────────────────────────────────────────────────────────────┘
+</pre>
 
-Case studies, demos, and contact — **[kyawzawhein.com](https://kyawzawhein.com)**.
+**[github.com/kyawzawhein-qa/portfolio](https://github.com/kyawzawhein-qa/portfolio)** · **[kyawzawhein.com](https://kyawzawhein.com)**
 
 </div>
 
@@ -111,12 +124,8 @@ Case studies, demos, and contact — **[kyawzawhein.com](https://kyawzawhein.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyawzawhein-qa&show_icons=true&theme=react&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true&count_private=false" alt="GitHub stats"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyawzawhein-qa&theme=radical" alt="GitHub stats"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kyawzawhein-qa&theme=react&hide_border=true&background=0B0F14&stroke=1E293B&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kyawzawhein-qa&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4&title=22D3EE&text=CBD5E1" alt="GitHub trophies"/>
 
 </div>
 
@@ -126,7 +135,9 @@ Case studies, demos, and contact — **[kyawzawhein.com](https://kyawzawhein.com
 
 <div align="center">
 
-[![kyawzawhein-qa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyawzawhein-qa&bg_color=0B0F14&color=22D3EE&line=38BDF8&point=22D3EE&area=true&area_color=38BDF8&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Contribution chart
+
+![Contribution chart](https://ghchart.rshah.org/22D3EE/kyawzawhein-qa)
 
 </div>
 
@@ -150,6 +161,29 @@ Case studies, demos, and contact — **[kyawzawhein.com](https://kyawzawhein.com
 │
 └──────────────────────────────────────────────────────────────────────
 </pre>
+
+</div>
+
+---
+
+## ☕ Support
+
+<div align="center">
+
+<pre>
+╔══════════════════════════════════════════════════════════════════════╗
+║  ◉ ATRIUM LAB  ·  fuel the public build                              ║
+╚══════════════════════════════════════════════════════════════════════╝
+</pre>
+
+**[Ko-fi](https://ko-fi.com/kyawzawhein64244)** · GitHub Sponsors when available
+
+Starring **[Atrium](https://github.com/kyawzawhein-qa/atrium)** helps others find the studio and keeps OSS momentum going.
+
+<br/>
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support-22D3EE?style=for-the-badge&logo=ko-fi&logoColor=0B0F14)](https://ko-fi.com/kyawzawhein64244)
+[![Atrium](https://img.shields.io/badge/Star_Atrium-38BDF8?style=for-the-badge&logo=github&logoColor=0B0F14)](https://github.com/kyawzawhein-qa/atrium)
 
 </div>
 
