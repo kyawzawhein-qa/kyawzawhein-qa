@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=4500&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=720&lines=Kyaw+Zaw+Hein;QA+engineer+who+ships+the+product%2C+not+just+the+tests;Playwright+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+local-first+agents" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=4500&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=720&height=96&lines=Kyaw+Zaw+Hein;QA+engineer+who+ships+the+product%2C+not+just+the+tests;Playwright+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+local-first+agents" alt="Typing intro" />
 
 <br/>
 <br/>
