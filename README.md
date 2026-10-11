@@ -6,7 +6,7 @@
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
-║  ◉ ATRIUM LAB  ·  kyawzawhein-qa  ·  Myanmar  ·  building in public  ║
+║  ◉ ATRIUM LAB  ·  kyawzawhein-qa  ·  USA  ·  building in public  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 </pre>
 
