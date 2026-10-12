@@ -37,7 +37,7 @@
   "name": "Kyaw Zaw Hein",
   "handle": "kyawzawhein-qa",
   "role": "QA Engineer — ships the product, not just the tests",
-  "base": "Myanmar",
+  "base": "USA",
   "mode": "building in public",
   "stack": ["Playwright", "TypeScript", "Next.js", "Prisma", "SQLite"],
   "side_channel": "local-first AI agents",
